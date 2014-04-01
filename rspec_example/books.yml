@@ -1,0 +1,17 @@
+---
+- !ruby/object:Book
+  title: 'JavaScript: The Good Parts'
+  author: Douglas Crockford
+  category: :development
+- !ruby/object:Book
+  title: The Lord of the Rings
+  author: J.R.R. Tolkien
+  category: :fantasy
+- !ruby/object:Book
+  title: The Selfish Gene
+  author: Richard Dawkins
+  category: :science
+- !ruby/object:Book
+  title: Snow Crash
+  author: Neal Stephenson
+  category: :science_fiction
